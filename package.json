@@ -1,7 +1,5 @@
 {
   "dependencies": {
-    "bleno": "^0.5.0",
-    "bluetooth-hci-socket": "^0.5.1",
-    "node-ble": "^1.7.0"
+    "bleno": "^0.5.0"
   }
 }
